@@ -4,7 +4,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular6-filter-pipe-xyylhn)
 
-###### **\***\*\*\***\*Level 1 **\*\***\*\*\*\***\*\***\*\*\***\*\***\*\*\*\***\*\*\*\*
+## **\***\*\*\***\*Level 1 **\*\***\*\*\*\***\*\***\*\*\***\*\***\*\*\*\***\*\*\*\*
 
 //types of map
 //switchmap
@@ -20,7 +20,7 @@
 //Just-in-Time (JIT), which compiles your app in the browser at runtime. This was the default until Angular 8.
 //Ahead-of-Time (AOT), which compiles your app and libraries at build time. This has been the default since Angular9.
 
-###### **\*\***\***\*\***Level2: Experiance candidate **\*\*\*\***\***\*\*\*\***
+## **\*\***\***\*\***Level2: Experiance candidate **\*\*\*\***\***\*\*\*\***
 
 Ques Arrow and normal functions
 Ans
@@ -102,7 +102,7 @@ There are two ways to make a service a singleton as below.
 First way is - inject the service in root by setting 'providedIn' property to 'root' in @Injectable decorator.
 Second way is - include the service in AppModule only or in a module that is imported only in AppModule no where else
 
-###### **\*\*\*\***Level3 for good experiance candidate **\*\*\*\*\*\***
+## **\*\*\*\***Level3 for good experiance candidate **\*\*\*\*\*\***
 
 Ques: What is Angular Ivy?
 Answer
@@ -128,7 +128,7 @@ Ans : https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual
 Virtual DOM creates a whole tree from scratch every time you rerender.
 Incremental DOM, on the other hand, doesn’t need any memory to rerender the view if it doesn’t change the DOM. We only have to allocate the memory when the DOM nodes are added or removed. And the size of the allocation is proportional to the size of the DOM change.
 
-###### **\*\***\***\*\*** lavel 1,2,3 \***\*\*\*\*\*\*\*\*\*\*\*\***
+## **\*\***\***\*\*** lavel 1,2,3 \***\*\*\*\*\*\*\*\*\*\*\*\***
 
 //css
 //What is a Pseudo element? What is pseudo-class
